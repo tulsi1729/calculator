@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646091794044",
+    "project_id": "reddit-app-59192",
+    "storage_bucket": "reddit-app-59192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646091794044:android:d949eec4ad82d24eff0bf9",
+        "android_client_info": {
+          "package_name": "com.rightdevs.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSvvux4hZdP-7fFC1uapgka0VrzJ80zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
